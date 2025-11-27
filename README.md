@@ -1,6 +1,6 @@
 # 🎯 PHP Habit Tracker
 
-A simple, elegant habit tracking application built with pure PHP. Track your daily habits with a beautiful interface and persistent JSON storage.
+A simple, habit tracking application built with pure PHP. Track your daily habits with a beautiful interface and persistent JSON storage.
 
 ![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
