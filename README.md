@@ -19,7 +19,7 @@ A simple, elegant habit tracking application built with pure PHP. Track your dai
 - ✅ No database required
 - ✅ Modern, clean UI
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -50,7 +50,7 @@ php -S localhost:8000
 4. **Open your browser**
 Navigate to: `http://localhost:8000`
 
-That's it! 🎉
+That's it! 
 
 ## 📖 Installation Guide
 
